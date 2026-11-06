@@ -61,7 +61,7 @@ python -X utf8 scripts/audit_seo_geo.py https://your-site.example --sample 0 --o
 
 ## Nguồn gốc
 
-Dự án cá nhân, **không chính thức**, không do Build to Own hay Anthropic phát hành hoặc bảo trợ. Cấu trúc skill dựa trên template của `bto-create-skill` trong [bto-skills](https://github.com/sonpiaz/bto-skills) của Son Piaz (MIT).
+Dự án cá nhân, không chính thức, không do Anthropic phát hành hoặc bảo trợ. Ghi công bên thứ ba xem trong [LICENSE](LICENSE).
 
 ## Giấy phép
 
